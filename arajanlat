@@ -1,3 +1,5 @@
+imprt streamlit as st
+
 items_data = {
     'Mosogatás': {'price': 1000},
     'Asztal': {'price': 1500},
